@@ -1,5 +1,5 @@
 
-# Registered Users Database 👥
+# php My SQL user msnagment 👥
 
 A clean, full-stack web application designed to manage user records. This project features a PHP backend integrated with a remote MySQL database to seamlessly register users and dynamically toggle their active status.
 
