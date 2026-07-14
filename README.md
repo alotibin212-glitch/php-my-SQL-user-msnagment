@@ -32,9 +32,11 @@ The database contains a table named `users` structured as follows:
 * `name` (VARCHAR)
 * `age` (INT)
 * `status` (TINYINT, where `1` = Active, `0` = Inactive)
+<img width="1920" height="938" alt="لقطة شاشة 2026-07-14 143051" src="https://github.com/user-attachments/assets/b97cfe4a-43d6-4f13-bdaa-c2611bcfc529" />
 
 ### 2. Web Hosting File Directory
 This section demonstrates the deployed files under the main public directory on the production server (such as `htdocs` or `public_html`), connecting our PHP frontend scripts securely with the live database.
+<img width="1920" height="960" alt="لقطة شاشة 2026-07-14 142125" src="https://github.com/user-attachments/assets/e8b34ff0-2636-4bb8-bbda-e297e0d697fc" />
 
 
 
