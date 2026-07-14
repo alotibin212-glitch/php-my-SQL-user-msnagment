@@ -8,9 +8,7 @@ A clean, full-stack web application designed to manage user records. This projec
 ## 🔗 Live Demo
 You can access and test the live website here:
 👉 https://noor-db.howto.rocks/index.php
-
 ---
-
 ## 🚀 Key Features
 * **Data Insertion:** A clean and responsive front-end form to add new users (Name & Age) directly into the database.
 * **Dynamic Status Toggle:** Change user status instantly between **Active** and **Inactive** with a single click.
@@ -33,3 +31,9 @@ The database contains a table named `users` structured as follows:
 * `name` (VARCHAR)
 * `age` (INT)
 * `status` (TINYINT, where `1` = Active, `0` = Inactive)
+
+### 2. Web Hosting File Directory
+This section demonstrates the deployed files under the main public directory on the production server (such as `htdocs` or `public_html`), connecting our PHP frontend scripts securely with the live database.
+
+
+
